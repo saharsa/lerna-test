@@ -6,7 +6,7 @@
     "version": {
       "conventionalCommits": true,
       "allowBranch": ["main"],
-      "ignoreChanges": ["packages/theme-server/**"]
+      "ignoreChanges": ["packages/package-c/**"]
     }
   }
 }
