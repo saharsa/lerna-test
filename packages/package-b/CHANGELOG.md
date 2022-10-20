@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/saharsa/lerna-test/compare/saharsa-lerna-test-package-b@1.1.0...saharsa-lerna-test-package-b@1.1.1) (2022-10-20)
+
+
+### Bug Fixes
+
+* test ([89ada50](https://github.com/saharsa/lerna-test/commit/89ada5035175f63905c296173044e5bdb9d0dc63))
+
+
+
+
+
 # [1.1.0](https://github.com/saharsa/lerna-test/compare/saharsa-lerna-test-package-b@1.0.3...saharsa-lerna-test-package-b@1.1.0) (2022-10-20)
 
 
