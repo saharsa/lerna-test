@@ -1,5 +1,5 @@
 {
-  "name": "package-a",
+  "name": "saharsa-lerna-test-package-a",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "2c0d05598954c6b5a92a266bd027ed3a3375f40e"
 }
